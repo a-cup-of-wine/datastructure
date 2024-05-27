@@ -107,7 +107,6 @@ public class BinarySearchBasic {
         // 没有找到
         return candidate;
     }
-
     /**
      * @param a--待查找的升序数组
      * @param target--待查找的数值
