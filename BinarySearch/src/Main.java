@@ -7,7 +7,7 @@ public class Main {
         System.out.println(main.count);
 
     }
-
+//    你好啊
      Main(int a) {
         this.count = a;
     }
